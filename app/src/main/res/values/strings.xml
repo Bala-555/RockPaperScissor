@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="paper">PAPER</string>
+    <string name="scissor">SCISSOR</string>
+    <string name="rock">ROCK</string>
+    <string name="None">none</string>
+    <string name="Draw">draw</string>
+    <string name="Lose">You Lose</string>
+    <string name="Win">You Win</string>
+    <string name="your_choice">YOUR CHOICE:</string>
+</resources>
+
